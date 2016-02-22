@@ -1,0 +1,9 @@
+E:\端口映射小工具\TCP穿透\服务端\服务端\bin\Debug\服务端.exe
+E:\端口映射小工具\TCP穿透\服务端\服务端\bin\Debug\服务端.pdb
+E:\端口映射小工具\TCP穿透\服务端\服务端\obj\Debug\服务端.Form1.resources
+E:\端口映射小工具\TCP穿透\服务端\服务端\obj\Debug\服务端.Properties.Resources.resources
+E:\端口映射小工具\TCP穿透\服务端\服务端\obj\Debug\服务端.csproj.GenerateResource.Cache
+E:\端口映射小工具\TCP穿透\服务端\服务端\obj\Debug\服务端.exe
+E:\端口映射小工具\TCP穿透\服务端\服务端\obj\Debug\服务端.pdb
+E:\杂物\tcp_p2p\服务端\服务端\obj\Debug\服务端.exe
+E:\杂物\tcp_p2p\服务端\服务端\obj\Debug\服务端.pdb

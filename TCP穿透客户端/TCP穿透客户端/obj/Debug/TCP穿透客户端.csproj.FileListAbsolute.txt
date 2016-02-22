@@ -1,0 +1,11 @@
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\bin\Debug\TCP穿透客户端.exe
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\bin\Debug\TCP穿透客户端.pdb
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.Form1.resources
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.Properties.Resources.resources
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.csproj.GenerateResource.Cache
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.exe
+E:\端口映射小工具\TCP穿透\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.pdb
+E:\杂物\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.exe
+E:\杂物\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.pdb
+E:\杂物\tcp_p2p\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.exe
+E:\杂物\tcp_p2p\TCP穿透客户端\TCP穿透客户端\obj\Debug\TCP穿透客户端.pdb
